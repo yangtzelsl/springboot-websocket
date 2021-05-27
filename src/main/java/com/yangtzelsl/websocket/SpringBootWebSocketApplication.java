@@ -1,4 +1,4 @@
-package com.gblfy.websocket;
+package com.yangtzelsl.websocket;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,6 +1,6 @@
-package com.gblfy.websocket.controller;
+package com.yangtzelsl.websocket.controller;
 
-import com.gblfy.websocket.server.SocketServer;
+import com.yangtzelsl.websocket.server.SocketServer;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
@@ -13,8 +13,8 @@ import java.util.List;
  * websocket
  * 消息推送(个人和广播)
  *
- * @Author gblfy
- * @Email gbly02@gmail.com
+ * @Author yangtzelsl
+ * @Email yangtzelsl@126.com
  * @Date 2019/11/20 PM 23:50
  */
 @Controller

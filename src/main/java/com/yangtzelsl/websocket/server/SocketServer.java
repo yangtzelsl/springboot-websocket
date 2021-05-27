@@ -1,6 +1,6 @@
-package com.gblfy.websocket.server;
+package com.yangtzelsl.websocket.server;
 
-import com.gblfy.websocket.entity.Client;
+import com.yangtzelsl.websocket.entity.Client;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Component;
@@ -14,8 +14,9 @@ import java.util.stream.Collectors;
 
 /**
  *
- * @Author gblfy
- * @Email gbly02@gmail.com
+ *
+ * @Author yangtzelsl
+ * @Email yangtzelsl@126.com
  * @Date 2019/11/20 PM 23:50
  */
 @ServerEndpoint(value = "/socketServer/{userName}")

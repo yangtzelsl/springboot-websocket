@@ -1,11 +1,12 @@
-package com.gblfy.websocket.entity;
+package com.yangtzelsl.websocket.entity;
 
 import javax.websocket.Session;
 import java.io.Serializable;
 
 /**
- * @Author gblfy
- * @Email gbly02@gmail.com
+ *
+ * @Author yangtzelsl
+ * @Email yangtzelsl@126.com
  * @Date 2019/11/20 PM 23:50
  */
 public class Client implements Serializable {
