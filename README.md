@@ -2,7 +2,7 @@
 本文来源于https://github.com/gb-heima/springboot-websocket
 在大佬的基础上自己做了些尝试，很多地方还没修改，感谢大佬！
 
-#背景：
+# 背景：
 根据公司需求在SpringBoot项目中集成站内信，于是，我做了一个SpringBoot2.x 整合websocket 消息推送，给指定用户发送信息和群发信息即点点对方式和广播方式2种模式。
 
 # 一、地址部署总览
