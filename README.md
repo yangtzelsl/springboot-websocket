@@ -2,6 +2,14 @@
 本文来源于https://github.com/gb-heima/springboot-websocket
 在大佬的基础上自己做了些尝试，很多地方还没修改，感谢大佬！
 
+# 更新
+在之前代码的基础上，本次新增了一些功能，主要实现
+对接kafka数据，利用websocket实现实时大屏展示
+
+数据源kafka -> 消费kafka -> websocket 服务端 -> websocket 客户端 -> 实时大屏展示
+
+![img.png](img.png)
+
 # 背景：
 根据公司需求在SpringBoot项目中集成站内信，于是，我做了一个SpringBoot2.x 整合websocket 消息推送，给指定用户发送信息和群发信息即点点对方式和广播方式2种模式。
 

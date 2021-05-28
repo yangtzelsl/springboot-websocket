@@ -5,6 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
  * SpringBoot 启动器入口
+ * @author luis.liu
  */
 @SpringBootApplication
 public class SpringBootWebSocketApplication {
